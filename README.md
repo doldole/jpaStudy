@@ -1,3 +1,1 @@
 # JPA Study Project
-
-## TEST
